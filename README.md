@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Samuel Sharan
 
-### B.Sc. Computer Science Student | Python, Java, Web Development | Exploring AI & Cloud Technologies 🚀
+### B.Sc. Computer Science Student | Python, Web Development | Exploring AI & Cloud Technologies 🚀
 
 ---
 
